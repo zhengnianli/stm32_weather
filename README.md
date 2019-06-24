@@ -19,5 +19,5 @@
 
 - 作者: Lizhengnian 
 - 作者微信公众号：嵌入式大杂烩，欢迎关注查看更多分享。
-- 作者CSDN博客：https://blog.csdn.net/zhengnianli
+- 作者个人博客：https://zhengnianli.github.io/
 - 作品演示视频：https://mp.weixin.qq.com/s/CB4Agd98_zVXXd6nacywCg
